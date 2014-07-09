@@ -38,7 +38,6 @@
             android:text="数量"
             android:textColor="#FFFFFF"
             android:textSize="17sp" />
-
     </LinearLayout>
 
     <TableRow
@@ -64,7 +63,6 @@
 
             <requestFocus />
         </EditText>
-
     </TableRow>
 
     <TableRow
@@ -87,7 +85,6 @@
             android:background="#DEDEDE"
             android:ems="2"
             android:inputType="number" />
-
     </TableRow>
 
     <TableRow
@@ -110,7 +107,6 @@
             android:background="#DEDEDE"
             android:ems="2"
             android:inputType="number" />
-
     </TableRow>
 
     <TableRow
@@ -133,7 +129,6 @@
             android:background="#DEDEDE"
             android:ems="2"
             android:inputType="number" />
-
     </TableRow>
 
 </TableLayout>
